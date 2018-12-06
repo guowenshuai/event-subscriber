@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	tu "github.com/rancher/event-subscriber/testutils"
+	tu "github.com/guowenshuai/event-subscriber/testutils"
 	"github.com/rancher/go-rancher/v2"
 )
 

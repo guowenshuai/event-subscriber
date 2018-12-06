@@ -3,7 +3,7 @@ package events
 import (
 	"fmt"
 	log "github.com/sirupsen/logrus"
-	"github.com/rancher/event-subscriber/locks"
+	"github.com/guowenshuai/event-subscriber/locks"
 	"github.com/rancher/go-rancher/v2"
 )
 
